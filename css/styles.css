@@ -320,7 +320,7 @@ margin:10px;
 }
 
 #share {
-	max-width: 320px;
+	max-width: 360px;
 	margin: 0 auto 1em;
 	padding: 1em;
 	background-color: rgba(128,128,128,0.9);
@@ -335,4 +335,5 @@ margin:10px;
 #share pre {
 	font-weight: bold;
 	padding: 0.3em 0 0.5em;
+	font-size: 0.9em;
 }
