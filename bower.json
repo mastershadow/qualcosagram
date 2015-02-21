@@ -1,0 +1,31 @@
+{
+  "name": "ws-qualcosagram",
+  "version": "1.0.0",
+  "authors": [
+    "Eduard Roccatello <eduard@roccatello.it>"
+  ],
+  "description": "Generatore di cloni di Instagram",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.roccatello.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.3.13",
+    "requirejs": "~2.1.16",
+    "jquery": "1.9.1",
+    "jquery-backstretch": "~2.0.4",
+    "angularAMD": "~0.2.1",
+    "angular-route": "~1.3.13",
+    "countdown": "~2.1.0",
+    "moment": "~2.9.0"
+  }
+}
